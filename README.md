@@ -64,6 +64,19 @@ A Node.js RESTful API for managing users, customers, technicians, and tags, buil
 - Zod for validation
 - SendGrid for email
 - Prettier, ESLint, Stylelint for code quality
+  
+## Dependencies
 
+- bcryptjs(password hashing)
+- dotenv
+- jsonwebtoken
+- mongoose
+- zod
+- @sendgrid/mail
+
+## Dev Dependencies
+
+- nodemon
+- eslint
 
 > Developed by Blackgod
